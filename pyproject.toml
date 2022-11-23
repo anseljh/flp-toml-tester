@@ -15,13 +15,13 @@ classifiers = [
   "Programming Language :: Python :: Implementation :: PyPy",
   "Topic :: Software Development :: Libraries :: Python Modules",
 ]
-description = "{{PROJECT_DESCRIPTION}}"
+description = "flp-toml-tester is for testing"
 keywords = ["legal", "courts"]
 license = "BSD-2-Clause"
 maintainers = ["Free Law Project <info@free.law>"]
-name = "{{PROJECT_NAME}}"
+name = "flp-toml-tester"
 readme = "README.md"
-repository = "https://github.com/freelawproject/{{PROJECT_NAME}}"
+repository = "https://github.com/anseljh/flp-toml-tester"
 version = "0.0.1"
 
 [tool.poetry.urls]
